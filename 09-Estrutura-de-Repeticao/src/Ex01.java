@@ -9,7 +9,7 @@ public class Ex01 {
         int maior = 0;
 
 
-        while(cont <= 5) {
+        while(cont <= 15) {
             System.out.println("Valor --> ");
             valor = sc.nextInt();
 
